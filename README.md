@@ -116,8 +116,12 @@ else:
 ```
 
 ## OUTPUT
+ # ENCRYPTION
+ 
+ ![crypro 5 1 py](https://github.com/user-attachments/assets/98d1df43-fba4-44b1-900f-20da2b51f512)
 
-![crypro 5 1 py](https://github.com/user-attachments/assets/98d1df43-fba4-44b1-900f-20da2b51f512)
+ # DECRYPTION
+ 
 ![crypto 5 2 py](https://github.com/user-attachments/assets/e37ed8fe-f01d-45fd-86cf-01a025e80ee2)
 
 
